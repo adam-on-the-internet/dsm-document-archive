@@ -1,0 +1,23 @@
+# TODO
+
+- Week 1: 1/24
+    - context for v18
+- Week 2: 1/31
+    - context for v17
+- Week 3: 2/7
+    - context for v16
+- Week 4: 2/14
+    - context for v15
+- Week 5: 2/21
+    - context for v14
+- Week 6: 2/28
+    - context for v13
+- Week 7: 3/7
+    - context for v12
+- Week 8: 3/14
+    - Plans Beyond
+        - Update readme
+        - Get version listing from assets or db, not from Constants?
+        - Collab to take more comments on rule change context?
+        - v11 to v1?
+        - Other ideas?
