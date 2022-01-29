@@ -1,0 +1,22 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <markdown [src]="directoryHeaderMarkdownPath"></markdown>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <hr>
+      <p *ngIf="documents.length === 0">
+        Sorry, no documents to show.
+      </p>
+      <ng-container *ngIf="documents.length > 0">
+        <ul class="list-group">
+          <li class="list-group-item" *ngFor="let document of documents">
+            {{document | json}}
+          </li>
+        </ul>
+      </ng-container>
+    </div>
+  </div>
+</div>

@@ -30,6 +30,7 @@ import {ModalTriggerButtonComponent} from "./components/simple/modal-trigger-but
 import {ModalBoxBasicComponent} from "./components/simple/modal-box-basic/modal-box-basic.component";
 import {MarkdownViewerComponent} from "./components/simple/markdown-viewer/markdown-viewer.component";
 import {AboutComponent} from './components/about/about.component';
+import {DirectoryComponent} from './components/directory/directory.component';
 
 // function that returns `MarkedOptions` with renderer override
 export function markedOptionsFactory(): MarkedOptions {
@@ -75,6 +76,7 @@ export function markedOptionsFactory(): MarkedOptions {
     ModalBoxBasicComponent,
     MarkdownViewerComponent,
     AboutComponent,
+    DirectoryComponent,
   ],
   imports: [
     BrowserModule,
