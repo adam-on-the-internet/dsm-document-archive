@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Constituent Notes on Consent Agenda",
+    link: "doc-archive/02_07_22_consent_notes.pdf",
+    description: "Consent Agenda Notes submitted by constituents and read by Council Member Indira Sheumaker at the 2/7/22 council meeting.",
+    date: "02/07/22",
+  },
+  {
     name: "Making Your Voice Heard Event Notes",
     link: "meeting-notes/pth-event/01_27_22_making-your-voice-heard.pdf",
     description: "Event Notes from the 1/27/22 People's Town Hall Event: Making Your Voice Heard.",
