@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Fiscal Year 2023 Initial Budget Presentation",
+    link: "meeting-notes/council/FY2023_initial_budget_presentation.pdf",
+    description: "Presentation on the Fiscal Year (FY) 2023 Budget from the 2/9/22 Budget Workshop.",
+    date: "02/09/22",
+  },
+  {
     name: "DSM Council Meeting Notes",
     link: "meeting-notes/council/02_07_22_regular-meeting.pdf",
     description: "Meeting Notes from the 2/7/22 Regular Council Meeting.",
