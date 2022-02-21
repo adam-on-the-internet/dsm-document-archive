@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Constituent Notes on Consent Agenda",
+    link: "doc-archive/02_07_21_consent_notes.pdf",
+    description: "Consent Agenda Notes submitted by constituents for the 2/21/22 council meeting.",
+    date: "02/21/22",
+  },
+  {
     name: "Fiscal Year 2023 Initial Budget Presentation",
     link: "doc-archive/FY2023_initial_budget_presentation.pdf",
     description: "Presentation on the Fiscal Year (FY) 2023 Budget from the 2/9/22 Budget Workshop.",
