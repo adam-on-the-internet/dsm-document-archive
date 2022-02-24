@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "DSM Council Meeting Notes",
+    link: "meeting-notes/council/02_21_22_regular-meeting.pdf",
+    description: "Meeting Notes from the 2/21/22 Regular Council Meeting.",
+    date: "02/21/22",
+  },
+  {
     name: "Constituent Notes on Consent Agenda",
     link: "doc-archive/02_07_21_consent_notes.pdf",
     description: "Consent Agenda Notes submitted by constituents for the 2/21/22 council meeting.",
