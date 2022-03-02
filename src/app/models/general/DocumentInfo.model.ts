@@ -4,4 +4,5 @@ export interface DocumentInfo {
   description: string;
   date?: string;
   type?: string;
+  useHost?: boolean;
 }

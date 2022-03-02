@@ -4,6 +4,13 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Remarks on Campaign Donor Conflict of Interest",
+    link: "view/markdown~02_21_22_legal_opinion",
+    useHost: true,
+    description: "Remarks made by Mayor Frank Cownie on 2/21/22.",
+    date: "02/21/22",
+  },
+  {
     name: "DSM Council Meeting Notes",
     link: "meeting-notes/council/02_21_22_regular-meeting.pdf",
     description: "Meeting Notes from the 2/21/22 Regular Council Meeting.",
@@ -11,7 +18,7 @@ export const DOCUMENTS: DocumentInfo[] = [
   },
   {
     name: "Constituent Notes on Consent Agenda",
-    link: "doc-archive/02_07_21_consent_notes.pdf",
+    link: "doc-archive/02_07_22_consent_notes.pdf",
     description: "Consent Agenda Notes submitted by constituents for the 2/21/22 council meeting.",
     date: "02/21/22",
   },

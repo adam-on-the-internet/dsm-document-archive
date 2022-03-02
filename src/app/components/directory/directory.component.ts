@@ -10,4 +10,16 @@ import {DocumentInfo} from "../../models/general/DocumentInfo.model";
 export class DirectoryComponent {
   public directoryHeaderMarkdownPath = `assets/directory-header.md`;
   public documents: DocumentInfo[] = DOCUMENTS;
+
+  public getLink(doc: DocumentInfo): string {
+    if (doc.useHost) {
+      if (location.hostname === "localhost") {
+      return `http://localhost:4200/#/${doc.link}`
+      } else {
+        return `https://dsm-document-archive.netlify.app/#/`
+      }
+    } else {
+      return `/assets/${doc.link}`
+    }
+  }
 }

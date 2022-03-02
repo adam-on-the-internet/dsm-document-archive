@@ -16,7 +16,7 @@
         </p>
         <ul class="list-group">
           <li class="list-group-item border-dark" *ngFor="let document of documents">
-            <a href="/assets/{{document.link}}" target="_blank" class="btn btn-link">
+            <a href="{{getLink(document)}}" target="_blank" class="btn btn-link">
               <h4>
                 {{document.name}}
               </h4>
