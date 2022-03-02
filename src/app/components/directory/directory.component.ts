@@ -16,7 +16,7 @@ export class DirectoryComponent {
       if (location.hostname === "localhost") {
       return `http://localhost:4200/#/${doc.link}`
       } else {
-        return `https://dsm-document-archive.netlify.app/#/`
+        return `https://dsm-document-archive.netlify.app/#/${doc.link}`
       }
     } else {
       return `/assets/${doc.link}`
