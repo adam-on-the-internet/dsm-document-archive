@@ -4,6 +4,13 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "3/2/22 PTH Notes",
+    link: "meeting-notes/pth-event/03_02_22_notes.pdf",
+    useHost: true,
+    description: "Notes from PTH event on 3/2/22.",
+    date: "3/2/22",
+  },
+  {
     name: "Remarks on Campaign Donor Conflict of Interest",
     link: "view/markdown~02_21_22_legal_opinion",
     useHost: true,
