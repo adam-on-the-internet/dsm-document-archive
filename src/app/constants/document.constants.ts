@@ -6,7 +6,6 @@ export const DOCUMENTS: DocumentInfo[] = [
   {
     name: "3/2/22 PTH Notes",
     link: "meeting-notes/pth-event/03_02_22_notes.pdf",
-    useHost: true,
     description: "Notes from PTH event on 3/2/22.",
     date: "3/2/22",
   },
