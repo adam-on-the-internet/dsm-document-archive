@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "3/9/22 PTH x NDMMA Mutual Aid 101 Notes",
+    link: "meeting-notes/pth-event/03_09_22_mutual_aid_101_notes.pdf",
+    description: "Notes from PTH x NDMMA Mutual Aid 101 event on 3/9/22.",
+    date: "3/9/22",
+  },
+  {
     name: "DSM Council Meeting Notes",
     link: "meeting-notes/council/03/07_22_regular-meeting.pdf",
     description: "Meeting Notes from the 3/7/22 Regular Council Meeting.",
