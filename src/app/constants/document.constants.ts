@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "3/16/22 Family of George Flagg Email to City Council Members other than Indira",
+    link: "doc-archive/2022_03_16_flagg_email.pdf",
+    description: "Email from the family of George Flagg to City Council Members calling for retention of George Flagg's street name. Council Member Indira Sheumaker, the only Black council person, was excluded.",
+    date: "3/16/22",
+  },
+  {
     name: "3/9/22 PTH x NDMMA Mutual Aid 101 Notes",
     link: "meeting-notes/pth-event/03_09_22_mutual_aid_101_notes.pdf",
     description: "Notes from PTH x NDMMA Mutual Aid 101 event on 3/9/22.",
