@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "DSM Council Meeting Notes",
+    link: "meeting-notes/council/04_04_22_regular-meeting.pdf",
+    description: "Meeting Notes from the 4/4/22 Regular Council Meeting.",
+    date: "04/04/22",
+  },
+  {
     name: "3/16/22 Family of George Flagg Email to City Council Members other than Indira",
     link: "doc-archive/2022_03_16_flagg_email.pdf",
     description: "Email from the family of George Flagg to City Council Members calling for retention of George Flagg's street name. Council Member Indira Sheumaker, the only Black council person, was excluded.",
@@ -17,7 +23,7 @@ export const DOCUMENTS: DocumentInfo[] = [
   },
   {
     name: "DSM Council Meeting Notes",
-    link: "meeting-notes/council/03/07_22_regular-meeting.pdf",
+    link: "meeting-notes/council/03_07_22_regular-meeting.pdf",
     description: "Meeting Notes from the 3/7/22 Regular Council Meeting.",
     date: "03/07/22",
   },
