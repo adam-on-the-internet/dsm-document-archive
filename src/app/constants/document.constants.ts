@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "BLM x PTH: George Flagg Parkway Statement",
+    link: "doc-archive/BLMXPTH_GeorgeFlaggParkway_statement.pdf",
+    description: "Statement from BLM and PTH on the effort to Rename George Flagg Parkway.",
+    date: "04/07/22",
+  },
+  {
     name: "DSM Council Meeting Notes",
     link: "meeting-notes/council/04_04_22_regular-meeting.pdf",
     description: "Meeting Notes from the 4/4/22 Regular Council Meeting.",
