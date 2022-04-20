@@ -4,6 +4,13 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Remarks on DMPD Consultants",
+    link: "view/markdown~04_18_22_cownie-statement-dmpd",
+    useHost: true,
+    description: "Remarks made by Mayor Frank Cownie on 4/18/22 in response to community calls for action on DMPD.",
+    date: "04/18/22",
+  },
+  {
     name: "BLM x PTH: George Flagg Parkway Statement",
     link: "doc-archive/BLMXPTH_GeorgeFlaggParkway_statement.pdf",
     description: "Statement from BLM and PTH on the effort to Rename George Flagg Parkway.",
