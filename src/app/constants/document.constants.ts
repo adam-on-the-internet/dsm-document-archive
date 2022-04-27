@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Law and Code Enforcement Data Project",
+    link: "doc-archive/law_enforcement_data_report_4-27-22.pdf",
+    description: "Presentation from Public Works, LLC on Law & Code Enforcment Data.",
+    date: "04/27/22",
+  },
+  {
     name: "Remarks on DMPD Consultants",
     link: "view/markdown~04_18_22_cownie-statement-dmpd",
     useHost: true,
