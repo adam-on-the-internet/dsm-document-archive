@@ -4,9 +4,21 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
-    name: "Law and Code Enforcement Data Project",
+    name: "Law Enforcement Data Project",
+    link: "doc-archive/law_enforcement_report_04-21-22.pdf",
+    description: "Report from Public Works, LLC on Law Enforcement Data.",
+    date: "04/27/22",
+  },
+  {
+    name: "Code Enforcement Data Project",
+    link: "doc-archive/code_enforcement_report_04-21-22.pdf",
+    description: "Report from Public Works, LLC on Code Enforcement Data.",
+    date: "04/27/22",
+  },
+  {
+    name: "Law and Code Enforcement Data Project: Presentation",
     link: "doc-archive/law_enforcement_data_report_4-27-22.pdf",
-    description: "Presentation from Public Works, LLC on Law & Code Enforcment Data.",
+    description: "Presentation from Public Works, LLC on Law & Code Enforcement Data.",
     date: "04/27/22",
   },
   {
