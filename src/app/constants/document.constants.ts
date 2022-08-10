@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Mandelbaum's Draft Resolution in Response to Roe's Overturn",
+    link: "doc-archive/mandelbaum-roe-draft.pdf",
+    description: "Draft of abortion protection resolution from Councillor Mandelbaum, provided via Axios.",
+    date: "08/10/22",
+  },
+  {
     name: "Law Enforcement Data Project",
     link: "doc-archive/law_enforcement_report_04-21-22.pdf",
     description: "Report from Public Works, LLC on Law Enforcement Data.",
