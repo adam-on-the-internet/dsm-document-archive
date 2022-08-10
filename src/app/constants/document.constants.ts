@@ -6,7 +6,7 @@ export const DOCUMENTS: DocumentInfo[] = [
   {
     name: "Mandelbaum's Draft Resolution in Response to Roe's Overturn",
     link: "doc-archive/mandelbaum-roe-draft.pdf",
-    description: "Draft of abortion protection resolution from Councillor Mandelbaum, provided via Axios.",
+    description: "Draft of abortion protection resolution from Councillor Mandelbaum, provided via Axios. Full article: https://www.axios.com/local/des-moines/2022/08/10/abortion-investigations-would-be-prohibited-under-des-moines-proposal?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioslocal_desmoines&stream=top",
     date: "08/10/22",
   },
   {
