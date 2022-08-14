@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Complaint Against Iowa City Fire Department",
+    link: "doc-archive/complaint-against-iowa-city-fire-department.pdf",
+    description: "Female Iowa City firefighter files lawsuit alleging discrimination and harassment. Full article: https://www.thegazette.com/local-government/female-iowa-city-firefighter-files-lawsuit-alleging-discrimination-and-harassment/",
+    date: "08/03/22",
+  },
+  {
     name: "Mandelbaum's Draft Resolution in Response to Roe's Overturn",
     link: "doc-archive/mandelbaum-roe-draft.pdf",
     description: "Draft of abortion protection resolution from Councillor Mandelbaum, provided via Axios. Full article: https://www.axios.com/local/des-moines/2022/08/10/abortion-investigations-would-be-prohibited-under-des-moines-proposal",
