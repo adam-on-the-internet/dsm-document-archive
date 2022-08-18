@@ -4,6 +4,18 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Sheumaker Countersuit against DMPD Officers",
+    link: "doc-archive/cops-v-residents-complaint.pdf",
+    description: "Sheumaker is countersuing two DMPD officers who are suing her. Full article: https://www.desmoinesregister.com/story/news/crime-and-courts/2022/08/17/des-moines-city-council-indira-sheumaker-counterclaim-police-protest-arrest/10341748002/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioslocal_desmoines&stream=top",
+    date: "08/17/22",
+  },
+  {
+    name: "DMPD Officers Suing Residents over Protests",
+    link: "doc-archive/cops-v-residents-counter-complaint.pdf",
+    description: "Two DMPD officers are suing Councillor Sheumaker and other residents over a 2020 protest. Full article: https://www.desmoinesregister.com/story/news/crime-and-courts/2022/07/06/des-moines-city-council-indira-sheumaker-sued-police-officers-george-floyd-protests-2020/7820683001/",
+    date: "07/06/22",
+  },
+  {
     name: "Complaint Against Iowa City Fire Department",
     link: "doc-archive/complaint-against-iowa-city-fire-department.pdf",
     description: "Female Iowa City firefighter files lawsuit alleging discrimination and harassment. Full article: https://www.thegazette.com/local-government/female-iowa-city-firefighter-files-lawsuit-alleging-discrimination-and-harassment/",
