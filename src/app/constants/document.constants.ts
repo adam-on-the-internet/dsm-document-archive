@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Riverview Park Statement: Hip-Hop Banned",
+    link: "doc-archive/riverview-park-statement.pdf",
+    description: "Statement from Tanner Briggs Faaborg concerning Des Moines Council Member Linda Westergaard and Polk County Supervisor Tom Hockensmith calling to ban hip-hop at the public Riverview Park.",
+    date: "11/30/22",
+  },
+  {
     name: "Sheumaker Countersuit against DMPD Officers",
     link: "doc-archive/cops-v-residents-counter-complaint.pdf",
     description: "Sheumaker is countersuing two DMPD officers who are suing her. Full article: https://www.desmoinesregister.com/story/news/crime-and-courts/2022/08/17/des-moines-city-council-indira-sheumaker-counterclaim-police-protest-arrest/10341748002/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioslocal_desmoines&stream=top",
