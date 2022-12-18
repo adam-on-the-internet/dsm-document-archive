@@ -10,6 +10,30 @@ export const DOCUMENTS: DocumentInfo[] = [
     date: "11/30/22",
   },
   {
+    name: "Roe Record Request: Cownie Pt 1",
+    link: "doc-archive/2022-10-22_ACTIONALERTRoeVWade_Redacted.pdf",
+    description: "Part 1 of 4 related to a record request for Mayor Cownie's emails from June 1, 2022 to October 6, 2022 about roe/abortion. Costed $185.18 for 4.5 hours. ",
+    date: "10/22/22",
+  },
+  {
+    name: "Roe Record Request: Cownie Pt 2",
+    link: "doc-archive/2022-10-22_DemocraticMayorsNewsletterRoeVWadeAndMore_Redacted.pdf",
+    description: "Part 2 of 4 related to a record request for Mayor Cownie's emails from June 1, 2022 to October 6, 2022 about roe/abortion. Costed $185.18 for 4.5 hours. ",
+    date: "10/22/22",
+  },
+  {
+    name: "Roe Record Request: Cownie Pt 3",
+    link: "2022-10-22_DemocraticMayorsStatementOnTheSupremeCourtOverturnRoevWade_Redacted.pdf",
+    description: "Part 3 of 4 related to a record request for Mayor Cownie's emails from June 1, 2022 to October 6, 2022 about roe/abortion. Costed $185.18 for 4.5 hours. ",
+    date: "10/22/22",
+  },
+  {
+    name: "Roe Record Request: Cownie Pt 4",
+    link: "2022-10-22_RoeRecordRequestProduce.pdf",
+    description: "Part 4 of 4 related to a record request for Mayor Cownie's emails from June 1, 2022 to October 6, 2022 about roe/abortion. Costed $185.18 for 4.5 hours. ",
+    date: "10/22/22",
+  },
+  {
     name: "Sheumaker Countersuit against DMPD Officers",
     link: "doc-archive/cops-v-residents-counter-complaint.pdf",
     description: "Sheumaker is countersuing two DMPD officers who are suing her. Full article: https://www.desmoinesregister.com/story/news/crime-and-courts/2022/08/17/des-moines-city-council-indira-sheumaker-counterclaim-police-protest-arrest/10341748002/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioslocal_desmoines&stream=top",
