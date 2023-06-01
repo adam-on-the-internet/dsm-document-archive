@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Des Moines City Council Governance Workshop Docs",
+    link: "doc-archive/05_23_23_worksheet_docs.pdf",
+    description: "Worksheet from agenda-less public meeting concerning city council governance.",
+    date: "05/23/23",
+  },
+  {
     name: "Riverview Park Statement: Hip-Hop Banned",
     link: "doc-archive/riverview-park-statement.pdf",
     description: "Statement from Tanner Briggs Faaborg concerning Des Moines Council Member Linda Westergaard and Polk County Supervisor Tom Hockensmith calling to ban hip-hop at the public Riverview Park.",
