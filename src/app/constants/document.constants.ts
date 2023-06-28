@@ -4,6 +4,18 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Des Moines City Council Governance Notes - Voss",
+    link: "doc-archive/05_23_23_voss-notes.pdf",
+    description: "Notes from meeting concerning city council governance.",
+    date: "05/23/23",
+  },
+  {
+    name: "Des Moines City Council Governance Notes - Gatto",
+    link: "doc-archive/05_23_23_gatto-notes.JPG",
+    description: "Notes from meeting concerning city council governance.",
+    date: "05/23/23",
+  },
+  {
     name: "Des Moines City Council Governance Workshop Docs",
     link: "doc-archive/05_23_23_worksheet_docs.pdf",
     description: "Worksheet from agenda-less public meeting concerning city council governance.",
