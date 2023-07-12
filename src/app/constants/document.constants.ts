@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Baker Tilly Summary - Governance 2023",
+    link: "doc-archive/baker_tilly_final_summary_2023.pdf",
+    description: "Final Summary from Baker Tilly concerning city council governance.",
+    date: "05/23/23",
+  },
+  {
     name: "Baker Tilly Contract - Council Governance 2023",
     link: "doc-archive/baker_tilly_contract_2023.pdf",
     description: "Contract with Baker Tilly concerning city council governance.",
