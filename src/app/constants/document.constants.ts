@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Crow Tow Contract 2019",
+    link: "doc-archive/crow-tow-contract-2019.pdf",
+    description: "Crow Tow Contract from 2019.",
+    date: "10/18/23",
+  },
+  {
     name: "Baker Tilly Summary - Governance 2023",
     link: "doc-archive/baker_tilly_final_summary_2023.pdf",
     description: "Final Summary from Baker Tilly concerning city council governance.",
