@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "21st Century Policing DMPD Review Report",
+    link: "doc-archive/21centurypolicing-report.pdf",
+    description: "21st Century Policing Report, concluding their review of DMPD. Seemingly withheld til after 2023 election.",
+    date: "11/20/23",
+  },
+  {
     name: "Crow Tow Contract 2019",
     link: "doc-archive/crow-tow-contract-2019.pdf",
     description: "Crow Tow Contract from 2019.",
