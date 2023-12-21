@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "21st Century Policing DMPD Review Report - some Sanders emails",
+    link: "doc-archive/sanders_21centurypolicing_12-20-23.pdf",
+    description: "any emails sent to Scott Sanders from August 1, 2023 to November 16, 2023 containing 21 Century Policing or 21CP.",
+    date: "12/20/23",
+  },
+  {
     name: "21st Century Policing DMPD Review Report",
     link: "doc-archive/21centurypolicing-report.pdf",
     description: "21st Century Policing Report, concluding their review of DMPD. Seemingly withheld til after 2023 election.",
