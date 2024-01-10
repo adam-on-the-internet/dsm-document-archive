@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "City of Des Moines Response to IPIB concerning 12/20 meeting",
+    link: "doc-archive/dsm_ipib_1_10_24.pdf",
+    description: "Response by the City of Des Moines to complaint from Adam Callanan through the IPIB.",
+    date: "1/10/24",
+  },
+  {
     name: "21st Century Policing DMPD Review Report - some Sanders emails",
     link: "doc-archive/sanders_21centurypolicing_12-20-23.pdf",
     description: "any emails sent to Scott Sanders from August 1, 2023 to November 16, 2023 containing 21 Century Policing or 21CP.",
