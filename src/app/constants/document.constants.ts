@@ -6,7 +6,7 @@ export const DOCUMENTS: DocumentInfo[] = [
   {
     name: "City of Des Moines Secret Developer Meetings '23",
     link: "doc-archive/developer_meetings_23/developer_meeting_list.pdf",
-    description: "The City's list of secret developer meetings in 2023.",
+    description: "The City's list of 25 secret developer meetings in 2023 from August 14 to October 6.",
     date: "4/29/24",
   },
   {
