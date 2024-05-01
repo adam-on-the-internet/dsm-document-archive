@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "City of Des Moines Secret Developer Meetings '23",
+    link: "doc-archive/developer_meetings_23/developer_meeting_list.pdf",
+    description: "The City's list of secret developer meetings in 2023.",
+    date: "4/29/24",
+  },
+  {
     name: "City of Des Moines Response to IPIB concerning 12/20 meeting",
     link: "doc-archive/dsm_ipib_1_10_24.pdf",
     description: "Response by the City of Des Moines to complaint from Adam Callanan through the IPIB.",
