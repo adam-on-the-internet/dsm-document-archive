@@ -4,6 +4,30 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Homlessness / Grant's Pass FOIA Part Four: Additional",
+    link: "doc-archive/grantspass_produce_redacted.pdf",
+    description: "One part of a FOIA concerning the sleeping ban.",
+    date: "9/24/24",
+  },
+  {
+    name: "Homlessness / Grant's Pass FOIA Part Three: Coleman Texts 2",
+    link: "doc-archive/coleman-texts-homelessness2.png",
+    description: "One part of a FOIA concerning the sleeping ban.",
+    date: "9/24/24",
+  },
+  {
+    name: "Homlessness / Grant's Pass FOIA Part Two: Coleman Texts 1",
+    link: "doc-archive/coleman-texts-homelessness1.png",
+    description: "One part of a FOIA concerning the sleeping ban.",
+    date: "9/24/24",
+  },
+  {
+    name: "Homlessness / Grant's Pass FOIA Part One: Coleman Emails",
+    link: "doc-archive/coleman-email-homelessness.pdf",
+    description: "One part of a FOIA concerning the sleeping ban.",
+    date: "9/24/24",
+  },
+  {
     name: "City of Des Moines Secret Developer Meetings '23",
     link: "doc-archive/developer_meetings_23/developer_meeting_list.pdf",
     description: "The City's list of 25 secret developer meetings in 2023 from August 14 to October 6.",
