@@ -4,6 +4,24 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Homelessness / Notice Period Before Announcement - agenda",
+    link: "doc-archive/encroachment_notice/agenda.pdf",
+    description: "Agenda for private meeting ahead of homeless policy change announcement.",
+    date: "10/27/24",
+  },
+  {
+    name: "Homelessness / Notice Period Before Announcement - expanded invite",
+    link: "doc-archive/encroachment_notice/expanded_invite.pdf",
+    description: "Expanded invite (more names, and agenda) to private meeting ahead of homeless policy change announcement.",
+    date: "10/27/24",
+  },
+  {
+    name: "Homelessness / Notice Period Before Announcement - initial invite",
+    link: "doc-archive/encroachment_notice/initial_invite.pdf",
+    description: "Initial invite to private meeting ahead of homeless policy change announcement.",
+    date: "10/27/24",
+  },
+  {
     name: "Homlessness / Grant's Pass FOIA Part Four: Additional",
     link: "doc-archive/grantspass_produce_redacted.pdf",
     description: "One part of a FOIA concerning the sleeping ban.",
