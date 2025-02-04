@@ -4,6 +4,12 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Sanders' Statement on Sustainability Firings",
+    link: "doc-archive/01_13_2025_sandersStatement.pdf",
+    description: "Written statement given by City Manager Sanders at a city council meeting regarding his firings of sustainability department employees.",
+    date: "1/13/25",
+  },
+  {
     name: "Homelessness / Notice Period Before Announcement - agenda",
     link: "doc-archive/encroachment_notice/agenda.pdf",
     description: "Agenda for private meeting ahead of homeless policy change announcement.",
