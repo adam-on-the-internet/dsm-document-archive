@@ -4,6 +4,17 @@ import {DocumentInfo} from "../models/general/DocumentInfo.model";
 
 export const DOCUMENTS: DocumentInfo[] = [
   {
+    name: "Text Related to Sustainability Firings",
+    link: "doc-archive/sustainability_1.jpg",
+    description: "Texts sent to and from Connie Boesen and Scott Sanders containing the word sustainability between December 9, 2024 and January 9, 2025.",
+    date: "2/21/25",
+  },
+  {
+    name: "Email Related to Sustainability Firings",
+    link: "doc-archive/sustainability_2.pdf",
+    description: "Emails sent to and from Connie Boesen and Scott Sanders containing the word sustainability between December 9, 2024 and January 9, 2025.",    date: "2/21/25",
+  },
+  {
     name: "Sanders' Statement on Sustainability Firings",
     link: "doc-archive/01_13_2025_sandersStatement.pdf",
     description: "Written statement given by City Manager Sanders at a city council meeting regarding his firings of sustainability department employees.",
